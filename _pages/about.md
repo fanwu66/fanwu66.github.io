@@ -21,27 +21,42 @@ Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D
 
 My research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
 
-Fields: Computer Vision, Autonomous, Vehicle-Infrastructure Cooperation, Large Vision-Language Model
-
+<b>Fields:</b> Computer Vision, Autonomous, Vehicle-Infrastructure Cooperation, Large Vision-Language Model<br />
 
 # 🔥 News
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<b> BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection </b>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<u><b>Lei Yang</b></u>, Kaicheng Yu, Tao Tang, Jun Li, Kun Yuan, Li Wang, Xinyu Zhang, Peng Chen.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023</i>
+
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVHeight_A_Robust_Framework_for_Vision-Based_Roadside_3D_Object_Detection_CVPR_2023_paper.pdf">[Paper]</a> <a href="https://github.com/ADLab-AutoDrive/BEVHeight">[Code]</a> <a href="https://mp.weixin.qq.com/s/dLzZOEFfjBmLQ2iv041oxw">[Blog]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2luZ8BuEgN8J:scholar.google.com/&output=citation&scisdr=Cm1glQeJEPG9riE6yO8:AGlGAw8AAAAAZIA80O9jVSfqal3uL4vf2p2Rm_c&scisig=AGlGAw8AAAAAZIA80DDZ1XCX-OXEz6g4SqICmj8&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection </b>
+
+<u><b>Lei Yang</b></u>, Kaicheng Yu, Tao Tang, Jun Li, Kun Yuan, Li Wang, Xinyu Zhang, Peng Chen.
+
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023</i>
+
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVHeight_A_Robust_Framework_for_Vision-Based_Roadside_3D_Object_Detection_CVPR_2023_paper.pdf">[Paper]</a> <a href="https://github.com/ADLab-AutoDrive/BEVHeight">[Code]</a> <a href="https://mp.weixin.qq.com/s/dLzZOEFfjBmLQ2iv041oxw">[Blog]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2luZ8BuEgN8J:scholar.google.com/&output=citation&scisdr=Cm1glQeJEPG9riE6yO8:AGlGAw8AAAAAZIA80O9jVSfqal3uL4vf2p2Rm_c&scisig=AGlGAw8AAAAAZIA80DDZ1XCX-OXEz6g4SqICmj8&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
