@@ -103,7 +103,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> ASO Author Reflections: Large Language Models Offer Substantial Potential for Specialized Applications in the Medical Field </b>
