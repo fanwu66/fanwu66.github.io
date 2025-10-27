@@ -28,30 +28,136 @@ His research spans the tasks of 3D object detection, point cloud registration an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b> BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection </b>
+<b> TEA-IHPCR: Temporal Augmented-Invariant Vehicle-Infrastructure Cooperative Heterogeneous Point Cloud Registration </b>
 
-<u><b>Lei Yang</b></u>, Kaicheng Yu, Tao Tang, Jun Li, Kun Yuan, Li Wang, Xinyu Zhang, Peng Chen.
+Shiyan Zhang, Xu Zhang, Xinyu Zhang, Yuxi Chen, Dongwei Zhu, <u><b>Fan Wu</b></u>, Dafeng Jin, Jun Li.
 
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023</i>
+<i>IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2025</i>
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVHeight_A_Robust_Framework_for_Vision-Based_Roadside_3D_Object_Detection_CVPR_2023_paper.pdf">[Paper]</a> <a href="https://github.com/ADLab-AutoDrive/BEVHeight">[Code]</a> <a href="https://mp.weixin.qq.com/s/dLzZOEFfjBmLQ2iv041oxw">[Blog]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2luZ8BuEgN8J:scholar.google.com/&output=citation&scisdr=Cm1glQeJEPG9riE6yO8:AGlGAw8AAAAAZIA80O9jVSfqal3uL4vf2p2Rm_c&scisig=AGlGAw8AAAAAZIA80DDZ1XCX-OXEz6g4SqICmj8&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10824686">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:F03L7eXYC3oJ:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d5dFk:ABGrvjIAAAAAaP9_bFlWC_QjfSl4hWX2yjsBGDQ&scisig=ABGrvjIAAAAAaP9_bGVkxyLL1Q-R3WntkO3TAu0&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b> BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection </b>
+<b> A weighted fuzzy inference method and application on wheel damage analysis </b>
 
-<u><b>Lei Yang</b></u>, Kaicheng Yu, Tao Tang, Jun Li, Kun Yuan, Li Wang, Xinyu Zhang, Peng Chen.
+QingE Wu, <u><b>Fan Wu</b></u>, Bofeng Zhang, Shaojing Song.
 
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023</i>
+<i> Scientific Reports (<b>SR</b>), 2024</i>
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVHeight_A_Robust_Framework_for_Vision-Based_Roadside_3D_Object_Detection_CVPR_2023_paper.pdf">[Paper]</a> <a href="https://github.com/ADLab-AutoDrive/BEVHeight">[Code]</a> <a href="https://mp.weixin.qq.com/s/dLzZOEFfjBmLQ2iv041oxw">[Blog]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2luZ8BuEgN8J:scholar.google.com/&output=citation&scisdr=Cm1glQeJEPG9riE6yO8:AGlGAw8AAAAAZIA80O9jVSfqal3uL4vf2p2Rm_c&scisig=AGlGAw8AAAAAZIA80DDZ1XCX-OXEz6g4SqICmj8&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+<a href="https://www.nature.com/articles/s41598-024-82792-y">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Ywr0LCKr1y0J:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d5HUw:ABGrvjIAAAAAaP9_BUzunf5va4mfQWocsNv7cZc&scisig=ABGrvjIAAAAAaP9_BckN8LEu6X0gbx0vJveWUGE&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Global Path Optimal Planning Method for Autonomous Vehicles Based on Image Feature Extraction </b>
+
+QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
+
+<i>Electronics, 2024</i>
+
+<a href="https://www.mdpi.com/2079-9292/13/21/4266">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:I7ang-Lcww8J:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d50Nk:ABGrvjIAAAAAaP9_yNmB-FHTAqGTcZfTzleaieo&scisig=ABGrvjIAAAAAaP9_yFMdqtVg_69tQowcODigNH8&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Coarse-to-fine heterogeneous point clouds registration in vehicle-to-infrastructure collaboration </b>
+
+<u><b>Fan Wu</b></u>, Shaojing Song, Yumei Gong, Jian Chen, Qin Qin, Xiang Sun, Zhiqing Miao.
+
+<i>Journal of Applied Remote Sensing (<b>JARS</b>), 2024</i>
+
+<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tI76sR1ASJoJ:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d57uc:ABGrvjIAAAAAaP9_9ucYYSEOxueb_qQprFxcyb4&scisig=ABGrvjIAAAAAaP9_9pDNWtn6JXYMNgXKuzg7mwQ&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Interpretable Roadside 2D Object Detection Based on Axial Attention </b>
+
+<u><b>Fan Wu</b></u>, Shaojing Song, Jinyan Hu.
+
+<i>2024 IEEE/ACIS 24th International Conference on Computer and Information Science (<b>ICIS</b>), 2024</i>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10778301">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:W8Oxu4W1eNsJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eHPVI:ABGrvjIAAAAAaP-BJVJkKNr6EWJCRA9jm9bqsC0&scisig=ABGrvjIAAAAAaP-BJSRixlZla-Bl0TU3Y_XyZkI&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> ASO Author Reflections: Large Language Models Offer Substantial Potential for Specialized Applications in the Medical Field </b>
+
+Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>, Fulin Yi, Shaohua Zhang, Song Wu, Jianquan Hou.
+
+<i>Annals of Surgical Oncology (<b>ASO</b>), 2024</i>
+
+<a href="https://link.springer.com/article/10.1245/s10434-024-15226-8">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:I9HlWEtSy3UJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eHc4Q:ABGrvjIAAAAAaP-Ba4QQjG1G4hNg9Cn0KmKImrM&scisig=ABGrvjIAAAAAaP-Baz_AQ0dYrgxMmeET2b6cJzs&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Enhanced artificial intelligence strategies in renal oncology: iterative optimization and comparative analysis of GPT 3.5 versus 4.0 </b>
+
+Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>, Fulin Yi, Shaohua Zhang, Song Wu, Jianquan Hou.
+
+<i>Annals of surgical oncology (<b>ASO</b>), 2024</i>
+
+<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:LQ3X3m-opEEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eH9nY:ABGrvjIAAAAAaP-B7nZm6_8yNP6VvRqbDp08yx8&scisig=ABGrvjIAAAAAaP-B7kEDCkNeSoljY1bt9ceVtEA&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> EPAWFusion: multimodal fusion for 3D object detection based on enhanced points and adaptive weights </b>
+
+Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing Miao.
+
+<i>Journal of Applied Remote Sensing (<b>JARS</b>), 2024</i>
+
+<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Krpyi-qrnWEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eEcjo:ABGrvjIAAAAAaP-CajrVPl0o3pcfh6cpENNklLw&scisig=ABGrvjIAAAAAaP-CamrptiXtwEbRR7zW6FMw22U&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> 基于信息论的智能驾驶可解释多模态感知 </b>
+
+张新钰、国纪龙、李骏、李德毅、张世焱、沈思甜、<u><b>吴凡</b></u>、刘华平.
+
+<i>中国科学：信息科学, 2024</i>
+
+<a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0086">[Paper]</a>
 
 </div>
 </div>
