@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2022, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and Prof. <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Shiyan Zhang</a> from 2022.04 to 2024.06. Before the phD career, he has also worked at Cyber3 Intelligent Vehicle Labs, Shanghai Jiao Tong University as a research intern supervised by <a href="https://cyberc3.sjtu.edu.cn/people.htm">Hanyang Zhuang</a> from 2024.06 to 2024.10. In addition, he also collaborated with Rui Liang of the South China Hospital, Shenzhen University from 2023.08 to 2025.10.
+Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2022, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and Prof. <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Shiyan Zhang</a> from 2022.04 to 2024.06. Before the phD career, he has also worked at Cyber3 Intelligent Vehicle Labs, Shanghai Jiao Tong University as a research intern supervised by <a href="https://cyberc3.sjtu.edu.cn/people.htm">Hanyang Zhuang</a> from 2024.06 to 2024.10. In addition, he also collaborated with <a href="">Rui Liang</a> of the South China Hospital, Shenzhen University from 2023.08 to 2025.10.
 
 His research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
 
@@ -28,7 +28,7 @@ His research spans the tasks of 3D object detection, point cloud registration an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/TIM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> TEA-IHPCR: Temporal Augmented-Invariant Vehicle-Infrastructure Cooperative Heterogeneous Point Cloud Registration </b>
@@ -43,7 +43,7 @@ Shiyan Zhang, Xu Zhang, Xinyu Zhang, Yuxi Chen, Dongwei Zhu, <u><b>Fan Wu</b></u
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR 2024</div><img src='images/SR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> A weighted fuzzy inference method and application on wheel damage analysis </b>
@@ -58,7 +58,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Bofeng Zhang, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2024</div><img src='images/E2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> Global Path Optimal Planning Method for Autonomous Vehicles Based on Image Feature Extraction </b>
@@ -73,7 +73,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/Reg2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> Coarse-to-fine heterogeneous point clouds registration in vehicle-to-infrastructure collaboration </b>
@@ -88,7 +88,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIS 2024</div><img src='images/ICIS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> Interpretable Roadside 2D Object Detection Based on Axial Attention </b>
@@ -118,7 +118,7 @@ Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> Enhanced artificial intelligence strategies in renal oncology: iterative optimization and comparative analysis of GPT 3.5 versus 4.0 </b>
@@ -133,7 +133,7 @@ Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/EPAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> EPAWFusion: multimodal fusion for 3D object detection based on enhanced points and adaptive weights </b>
@@ -148,7 +148,7 @@ Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing M
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SCI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> 基于信息论的智能驾驶可解释多模态感知 </b>
