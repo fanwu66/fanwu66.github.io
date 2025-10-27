@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2022, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked as a research intern supervised by <a href="">Xinyu Zhang</a> from 2022.04 to 2024.06.
+Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2022, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Xinyu Zhang</a> from 2022.04 to 2024.06.
 
-My research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
+His research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
 
 <b>Fields:</b> Computer Vision, Autonomous, Vehicle-Infrastructure Cooperation, Large Vision-Language Model<br />
 
@@ -59,16 +59,15 @@ My research spans the tasks of 3D object detection, point cloud registration and
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* China National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, Southeast University, Wuxi, China. 
+- *2022.09 - 2025.06*, Shanghai Polytechnic University, Shanghai, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
