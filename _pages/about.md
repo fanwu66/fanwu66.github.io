@@ -21,7 +21,7 @@ Fan Wu was born in Bozhou, Anhui, China in 2001. He is currently pursuing the Ph
 
 His research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
 
-<b>Fields:</b> Computer Vision, Autonomous, Vehicle-Infrastructure Cooperation, Large Vision-Language Model<br />
+<b>Fields:</b> Computer Vision, Autonomous Driving, Vehicle-Infrastructure Cooperation, Large Vision-Language Model<br />
 
 # 🔥 News
 
