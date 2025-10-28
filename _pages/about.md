@@ -148,7 +148,7 @@ Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing M
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SCI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI 2024</div><img src='images/SCI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> 基于信息论的智能驾驶可解释多模态感知 </b>
