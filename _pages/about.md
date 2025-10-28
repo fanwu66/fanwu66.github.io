@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fan Wu was born in Bozhou, Anhui, China in 2001. I'm currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2022, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and Prof. <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Shiyan Zhang</a> from 2022.04 to 2024.06. Before the phD career, he has also worked at Cyber3 Intelligent Vehicle Labs, Shanghai Jiao Tong University as a research intern supervised by <a href="https://cyberc3.sjtu.edu.cn/people.htm">Hanyang Zhuang</a> from 2024.06 to 2024.10. In addition, he also collaborated with <a href="">Rui Liang</a> of the South China Hospital, Shenzhen University from 2023.08 to 2025.10.
+Fan Wu was born in Bozhou, Anhui, China in 2001. He is currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2025, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and Prof. <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Shiyan Zhang</a> from 2022.04 to 2024.06. Before the phD career, he has also worked at Cyber3 Intelligent Vehicle Labs, Shanghai Jiao Tong University as a research intern supervised by <a href="https://cyberc3.sjtu.edu.cn/people.htm">Hanyang Zhuang</a> from 2024.06 to 2024.10. In addition, he also collaborated with <a href="">Rui Liang</a> of the South China Hospital, Shenzhen University from 2023.08 to 2025.10.
 
 His research spans the tasks of 3D object detection, point cloud registration and human Identification, all aimed at achieving more accurate and robust perception, thereby reducing driving accidents.
 
@@ -82,7 +82,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 
 <i>Journal of Applied Remote Sensing (<b>JARS</b>), 2024</i>
 
-<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tI76sR1ASJoJ:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d57uc:ABGrvjIAAAAAaP9_9ucYYSEOxueb_qQprFxcyb4&scisig=ABGrvjIAAAAAaP9_9pDNWtn6JXYMNgXKuzg7mwQ&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+<a href="https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-4/047504/Coarse-to-fine-heterogeneous-point-clouds-registration-in-vehicle-to/10.1117/1.JRS.18.047504.full">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tI76sR1ASJoJ:scholar.google.com/&output=citation&scisdr=ChW0hbamEJ-eu0d57uc:ABGrvjIAAAAAaP9_9ucYYSEOxueb_qQprFxcyb4&scisig=ABGrvjIAAAAAaP9_9pDNWtn6JXYMNgXKuzg7mwQ&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
 
 </div>
 </div>
@@ -103,7 +103,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> ASO Author Reflections: Large Language Models Offer Substantial Potential for Specialized Applications in the Medical Field </b>
@@ -142,7 +142,7 @@ Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing M
 
 <i>Journal of Applied Remote Sensing (<b>JARS</b>), 2024</i>
 
-<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Krpyi-qrnWEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eEcjo:ABGrvjIAAAAAaP-CajrVPl0o3pcfh6cpENNklLw&scisig=ABGrvjIAAAAAaP-CamrptiXtwEbRR7zW6FMw22U&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+<a href="https://opticalengineering.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-01/017501/EPAWFusion--multimodal-fusion-for-3D-object-detection-based-on/10.1117/1.JRS.18.017501.full">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Krpyi-qrnWEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eEcjo:ABGrvjIAAAAAaP-CajrVPl0o3pcfh6cpENNklLw&scisig=ABGrvjIAAAAAaP-CamrptiXtwEbRR7zW6FMw22U&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
 
 </div>
 </div>
