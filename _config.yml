@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fan Wu"
-description              : "Student Member, IEEE"
+description              : "Southeast University"
 repository               : "github.com/fanwu66"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fan Wu"
   avatar           : "images/fanwu.png"
-  bio              : "Southeast University"
+  bio              : "Student Member, IEEE"
   location         : "WuXi, China"
   employer         :
   pubmed           : 
