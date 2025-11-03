@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 👨‍🎓 About Me
+
 <span class='anchor' id='about-me'></span>
 
 Fan Wu was born in Bozhou, Anhui, China in 2001. He is currently pursuing the Ph.D. degree with the <a href="https://tc.seu.edu.cn/">School of Transportation</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>, supervised by Prof. <a href="https://tc.seu.edu.cn/mgq/main.psp">Guoqiang Mao</a>. He received his M.S. degree from <a href="https://www.sspu.edu.cn/">Shanghai Polytechnic University</a> in 2025, supervised by Prof. <a href="https://imce.sspu.edu.cn/2024/0517/c5124a156030/page.psp">Shaojing Song</a> and Prof. <a href="https://jxxy.sspu.edu.cn/2025/1024/c5247a165417/page.htm">QingE Wu</a>. During the M.S. career, he has also worked at the Interpretability of Perception research group of the State, Tsinghua Lion team as a research intern supervised by <a href="">Shiyan Zhang</a> from 2022.04 to 2024.06. Before the phD career, he has also worked at Cyber3 Intelligent Vehicle Labs, Shanghai Jiao Tong University as a research intern supervised by <a href="https://cyberc3.sjtu.edu.cn/people.htm">Hanyang Zhuang</a> from 2024.06 to 2024.10. In addition, he also collaborated with <a href="">Rui Liang</a> of the South China Hospital, Shenzhen University from 2023.08 to 2025.10.
@@ -25,6 +27,9 @@ His research spans the tasks of 3D object detection, point cloud registration an
 
 # 🔥 News
 
+- *2025.09*, I joined IEEE as a student member.
+- *2025.09*, I joined the School of Transportation at Southeast University to pursue my doctoral degree.
+- *2024.12*, I won the China National Scholarship.
 
 # 📝 Publications 
 
