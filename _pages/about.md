@@ -170,6 +170,7 @@ Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing M
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🥇 Honors and Awards
+- *2025.04* Outstanding Graduates of Shanghai
 - *2024.12* China National Scholarship
 
 # 📖 Educations
