@@ -132,7 +132,7 @@ Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>
 
 <i>Annals of surgical oncology (<b>ASO</b>), 2024</i>
 
-<a href="">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:LQ3X3m-opEEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eH9nY:ABGrvjIAAAAAaP-B7nZm6_8yNP6VvRqbDp08yx8&scisig=ABGrvjIAAAAAaP-B7kEDCkNeSoljY1bt9ceVtEA&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
+<a href="https://link.springer.com/article/10.1245/s10434-024-15107-0">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:LQ3X3m-opEEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eH9nY:ABGrvjIAAAAAaP-B7nZm6_8yNP6VvRqbDp08yx8&scisig=ABGrvjIAAAAAaP-B7kEDCkNeSoljY1bt9ceVtEA&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
 
 </div>
 </div>
