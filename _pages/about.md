@@ -26,7 +26,7 @@ His research spans the tasks of 3D object detection, point cloud registration an
 <b>Fields:</b> Computer Vision, Autonomous Driving, Vehicle-Infrastructure Cooperation, Large Vision-Language Model, Explainability, Multimodal<br />
 
 # 🔥 News
-
+- *2025.11*, One paper is accepted by TITS.
 - *2025.09*, I joined IEEE as a student member.
 - *2025.09*, I joined the School of Transportation at Southeast University to pursue my doctoral degree.
 - *2024.12*, I won the China National Scholarship.
