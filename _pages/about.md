@@ -33,6 +33,20 @@ His research spans the tasks of 3D object detection, point cloud registration an
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/VLMIdentification.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Enhancing Robotaxi Pick-up through Vision-Language-Model-Based Passenger Identification </b>
+
+<u><b>Fan Wu</b></u>, Shaojing Song, QingE Wu, Zhiqing Miao, Xiang Sun, Hanyang Zhuang.
+
+<i>IEEE Transactions on Intelligent Transportation Systems (<b>TITS</b>), 2025</i>
+
+<a href="">[Paper]</a> <a href="https://github.com/fanwu66/VLMIdentification">[Code]</a> 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/TIM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
