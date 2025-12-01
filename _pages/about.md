@@ -188,7 +188,7 @@ Xiang Sun, Shaojing Song, <u><b>Fan Wu</b></u>, Tingting Lu, Bohao Li, Zhiqing M
 - *2024.12* China National Scholarship
 
 # 📖 Educations
-- *2025.09 - now*, Southeast University, Jing Nan, China. 
+- *2025.09 - now*, Southeast University, Nanjing, China. 
 - *2022.09 - 2025.06*, Shanghai Polytechnic University, Shanghai, China. 
 
 <!-- # 💬 Invited Talks -->
