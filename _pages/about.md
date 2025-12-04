@@ -42,7 +42,7 @@ His research spans the tasks of 3D object detection, point cloud registration an
 
 <i>IEEE Transactions on Intelligent Transportation Systems (<b>TITS</b>), 2025</i>
 
-<a href="10.1109/TITS.2025.3633488">[Paper]</a> <a href="https://github.com/fanwu66/VLMIdentification">[Code]</a> 
+<a href="https://ieeexplore.ieee.org/document/11264497">[Paper]</a> <a href="https://github.com/fanwu66/VLMIdentification">[Code]</a> 
 
 </div>
 </div>
