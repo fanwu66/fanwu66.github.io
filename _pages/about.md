@@ -29,7 +29,7 @@ His research spans the tasks of 3D object detection, point cloud registration an
 - *2025.11*, One paper is accepted by TITS.
 - *2025.09*, I joined IEEE as a student member.
 - *2025.09*, I joined the School of Transportation at Southeast University to pursue my doctoral degree.
-- *2025.09*, I won the Outstanding Graduates of Shanghai.
+- *2025.04*, I won the Outstanding Graduates of Shanghai.
 - *2024.12*, I won the China National Scholarship.
 
 # 📝 Publications 
