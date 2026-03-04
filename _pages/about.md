@@ -122,7 +122,7 @@ QingE Wu, <u><b>Fan Wu</b></u>, Shaojing Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASO 2024</div><img src='images/ASO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> ASO Author Reflections: Large Language Models Offer Substantial Potential for Specialized Applications in the Medical Field </b>
@@ -149,7 +149,7 @@ Rui Liang, Anguo Zhao, Lei Peng, Xiaojian Xu, Jianye Zhong, <u><b>Fan Wu</b></u>
 <a href="https://link.springer.com/article/10.1245/s10434-024-15107-0">[Paper]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:LQ3X3m-opEEJ:scholar.google.com/&output=citation&scisdr=ChW0hbedEJ-eu0eH9nY:ABGrvjIAAAAAaP-B7nZm6_8yNP6VvRqbDp08yx8&scisig=ABGrvjIAAAAAaP-B7kEDCkNeSoljY1bt9ceVtEA&scisf=4&ct=citation&cd=-1&hl=zh-CN">[BibTex]</a> 
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2024</div><img src='images/EPAW.png' alt="sym" width="100%"></div></div>
